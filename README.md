@@ -1,5 +1,5 @@
-# NPC-Visualization-Mod 1.0.5.1
-![RELEASE 005](https://github.com/user-attachments/assets/fa8d28eb-b06f-4c71-ab13-3955ca4f6d4b)
+# NPC-Visualization-Mod 1.0.6
+![RELEASE 006](https://github.com/user-attachments/assets/95b20394-003b-42a8-83c5-9d3253f855b7)
 ![RELEASE 000](https://github.com/user-attachments/assets/c38a428d-ef83-4a22-9ca8-adbdd661274b)
 
 Hi, thanks for trying out this mod！
