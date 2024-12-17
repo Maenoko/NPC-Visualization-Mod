@@ -1,4 +1,4 @@
-# NPC-Visualization-Mod 1.0.6
+# NPC-Visualization-Mod 1.0.6.1
 ![RELEASE 006](https://github.com/user-attachments/assets/95b20394-003b-42a8-83c5-9d3253f855b7)
 ![RELEASE 000](https://github.com/user-attachments/assets/c38a428d-ef83-4a22-9ca8-adbdd661274b)
 
